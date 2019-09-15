@@ -11,4 +11,6 @@ V0.1=====
 
 ändrade creditstexten i 'assets/minecraft/texts'
 
+ändrade endtexten i 'assets/minecraft/texts'
+
 =====
