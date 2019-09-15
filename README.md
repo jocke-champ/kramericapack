@@ -7,4 +7,6 @@ V0.1=====
 
 ändrade 'fighter.png' i 'assets/minecraft/textures/painting' till George Constanza i underkläder.
 
+ändrade texten i 'assets/minecraft/texts'
+
 =====
