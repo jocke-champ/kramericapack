@@ -1,6 +1,10 @@
 # kramericapack
 Kramerica Industries™ egna unika resourcepack
 
+V0.2====
+
+====
+
 V0.1=====
 
 ändrade texten i 'pack.mcmeta'.
