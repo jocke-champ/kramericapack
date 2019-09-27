@@ -1,5 +1,5 @@
 # kramericapack v0.3
-Kramerica Industries™ egna unika resourcepack
+Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
 
