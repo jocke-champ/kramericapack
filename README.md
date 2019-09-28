@@ -1,11 +1,16 @@
-# kramericapack v0.3
-Kramerica Industries™ egna unika resourcepack
+# kramericapack v0.4
+Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
 
+### v 0.4
+
+- lugnare regnljud
+- snyggare font (ingame)
 
 ### v 0.1-0.3
 
+- Ändrat utseende på xp-bar och speciella hjärtan
 - Gamla ljuden när man tar skada
 - Tystare eld, vatten, minecarts, kossor, endermen, gastar, villagers samt portaler
 - Några ändringar i språkfilen gällande vissa föremåls namn samt dödsmeddelanden
