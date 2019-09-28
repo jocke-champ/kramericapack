@@ -6,6 +6,7 @@ Kramerica™ Industries egna unika resourcepack
 
 ### v 0.1-0.3
 
+- Ändrat utseende på xp-bar och speciella hjärtan
 - Gamla ljuden när man tar skada
 - Tystare eld, vatten, minecarts, kossor, endermen, gastar, villagers samt portaler
 - Några ändringar i språkfilen gällande vissa föremåls namn samt dödsmeddelanden
