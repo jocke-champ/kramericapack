@@ -5,6 +5,7 @@ Kramerica™ Industries egna unika resourcepack
 
 ### v 0.4
 
+- ballare partiklar
 - lugnare regnljud
 - snyggare font (ingame)
 
