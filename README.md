@@ -3,6 +3,9 @@ Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
 
+### v 0.4
+
+- lugnare regnljud
 
 ### v 0.1-0.3
 
