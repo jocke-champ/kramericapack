@@ -1,4 +1,4 @@
-# kramericapack v0.3
+# kramericapack v0.4
 Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
