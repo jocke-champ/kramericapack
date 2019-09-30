@@ -6,11 +6,12 @@ Kramerica™ Industries egna unika resourcepack
 ### v 0.5
 
 - Fixade fonten
-- Nytt Phantom Spawnljud
+- Villager Bruh Moment
 - Ny "mojang-logga"
 - Tog bort "Java Edition"
 - Fixade Speed effect grejen
 - Ändrade "Wanderer" målningen till "The Kramer"
+- Från "Boots" till Sabatons
 
 ### v 0.4
 
