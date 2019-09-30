@@ -1,7 +1,16 @@
-# kramericapack v0.4
+# kramericapack v0.5
 Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
+
+### v 0.5
+
+- Fixade fonten
+- Nytt Phantom Spawnljud
+- Ny "mojang-logga"
+- Tog bort "Java Edition"
+- Fixade Speed effect grejen
+- Ändrade "Wanderer" målningen till "The Kramer"
 
 ### v 0.4
 
