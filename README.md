@@ -5,6 +5,7 @@ Kramerica™ Industries egna unika resourcepack
 
 ### v 0.5
 
+- Ändrat ljud på när gastar skjuter eldbollar
 - Fixade fonten
 - Villager Bruh Moment
 - Ny "mojang-logga"
