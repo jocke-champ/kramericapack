@@ -11,6 +11,7 @@ Kramerica™ Industries egna unika resourcepack
 - Tog bort "Java Edition"
 - Fixade Speed effect grejen
 - Ändrade "Wanderer" målningen till "The Kramer"
+- Från "Boots" till Sabatons
 
 ### v 0.4
 
