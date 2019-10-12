@@ -3,6 +3,10 @@ Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
 
+### v 0.6
+
+- Skelett gör ett toot-ljud
+
 ### v 0.5
 
 - Ändrat ljud på när gastar skjuter eldbollar
