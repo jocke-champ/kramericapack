@@ -6,6 +6,7 @@ Kramerica™ Industries egna unika resourcepack
 ### v 0.6
 
 - Skelett gör ett toot-ljud
+- fixat så att spelarens ljud är ändrade 
 
 ### v 0.5
 
