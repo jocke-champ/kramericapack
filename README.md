@@ -1,10 +1,16 @@
-# kramericapack v0.5
+# kramericapack v0.6
 Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
 
+### v 0.6
+
+- Skelett gör ett toot-ljud
+- fixat så att spelarens ljud är ändrade 
+
 ### v 0.5
 
+- Ändrat ljud på när gastar skjuter eldbollar
 - Fixade fonten
 - Villager Bruh Moment
 - Ny "mojang-logga"
