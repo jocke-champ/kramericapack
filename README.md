@@ -1,12 +1,19 @@
-# kramericapack v0.6
+# kramericapack v0.7
 Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
 
+### v 0.7
+
+- Skelett gör inte toot-ljud längre
+- Snyggade till "mojang-logga"n
+- Ny font
+- Updaterat "Splashes"
+
 ### v 0.6
 
 - Skelett gör ett toot-ljud
-- fixat så att spelarens ljud är ändrade 
+- fixat så att spelarens ljud är ändrade
 
 ### v 0.5
 
