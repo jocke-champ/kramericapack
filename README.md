@@ -6,7 +6,7 @@ Kramerica™ Industries egna unika resourcepack
 ### v 0.7
 
 - Skelett gör inte toot-ljud längre
-- Snyggade till "mojang-logga"n *wink*
+- Snyggade till "mojang-logga"n * wink *
 - Ny font
 - Updaterat "Splashes"
 
