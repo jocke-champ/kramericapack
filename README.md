@@ -1,7 +1,18 @@
-# kramericapack v0.7
+# kramericapack v0.8
 Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
+
+### v 0.8
+
+- Ändrade pumpa- och melonstammar så man ser skillnad
+- Lade till varierade bokhyllor
+- Gjode så bokhyllor-texturen ansluter sig till varandra
+- Klibbiga kolvar är även klibbiga på sidan
+- Eld och Sköldar är lägre
+- Hotbar:en är numrerad
+- Ändrade lava till gamla lavan från beta-versionen
+- Fixade en snygg panorama-grej
 
 ### v 0.7
 
