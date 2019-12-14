@@ -3,6 +3,11 @@ Kramerica™ Industries egna unika resourcepack
 
 ## Ändringar i Kramericapacket
 
+### v 0.9
+- Kompatibelt med minecraft 1.15
+- lite ny rolig text
+- jultema
+
 ### v 0.8
 
 - Ändrade pumpa- och melonstammar så man ser skillnad
